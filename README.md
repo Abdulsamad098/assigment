@@ -1,12 +1,12 @@
 # assigment
-#  q1
+#Q1
 base =  10
 height = 20
 area = 0.5 * base * height
 print(f"The area of the triangle is: {area}")
 
 
-#q2
+#Q2
 
 def square_area(side):
     return side * side
@@ -16,7 +16,7 @@ area = square_area(side)
 print(f"The area of the square is: {area}")
 
 
-#q3
+#Q3
 
 import math
 
@@ -29,7 +29,7 @@ area = circle_area(radius)
 print(f"The area of the circle is: {area}")
 
 
-#q4
+#Q4
 
 def rectangle_area(length, width):
     return length * width
